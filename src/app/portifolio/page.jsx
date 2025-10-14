@@ -12,7 +12,7 @@ const items = [
     title: "Bikcraft",
     desc: "Bicicletas elétricas de alta precisão e qualidade, feitas sob medida para você. Explore o mundo na sua velocidade com a Bikcraft.",
     img: "/bickcraft.png",
-    link: "https://rafa.dev",
+    link: "https://github.com/rafanascm/bikcraft",
   },
   {
     id: 2,
@@ -28,14 +28,6 @@ const items = [
     title: "Notes",
     desc: "Notes permite que você crie notas tanto por meio da digitação quanto por audio, incrivel né? Bloco de notas totalmente tecnológico.",
     img: "/notes.png",
-    link: "https://rafa.dev",
-  },
-  {
-    id:4,
-    color: "from-gray-500 from-black-500",
-    title: "Projeto4",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    img: "https://images.pexels.com/photos/18023772/pexels-photo-18023772/free-photo-of-close-up-of-a-person-holding-a-wristwatch.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     link: "https://rafa.dev",
   },
 ];

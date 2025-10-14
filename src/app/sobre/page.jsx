@@ -33,16 +33,12 @@ export default function SobrePage() {
             {/* TITULO BIOGRAFIA */}
             <h1 className="font-bold text-2xl">Um pouco sobre mim...</h1>
             {/* DESCRICAO BIOGRTAFIA */}
-            <p className="text-lg">
-              Oi! Eu sou a Rafinha, tenho 23 anos e sou formada em Análise e
-              Desenvolvimento de Sistemas pela FIAP. Atualmente, trabalho como
-              desenvolvedora front end, entretanto minha jornada na tecnologia
-              começou como analista de dados voltado para o mercado GRC e ESG.
-              Também tenho experiência de back end, então tenho um pé em cada
-              canto do desenvolvimento. <br /> Vamos trocar uma ideia sobre
-              tecnologia e inovação?
-            </p>
-
+         <p className="text-lg">
+        Oi! Sou a Rafinha, tenho 24 anos e sou formada em Análise e Desenvolvimento de Sistemas pela FIAP. Atualmente, atuo como desenvolvedora Front-End, mas minha trajetória na tecnologia começou como analista de dados, com foco em GRC e ESG.<br />
+        Fui pioneira na implementação de microfrontends na Ambipar e tenho experiência com análise de dados, dashboards e indicadores de sustentabilidade.<br />
+        Além disso, compartilho meu conhecimento como professora, ministrando aulas de programação.<br />
+        Que tal trocarmos ideias sobre tecnologia e inovação?
+</p>
             {/* ASSINATURA */}
             <div className="relative w-80 h-20 self-end">
               <Image
@@ -227,10 +223,10 @@ export default function SobrePage() {
                   </div>
                   {/* DESC */}
                   <div className="p-3 text-sm ">
-                    Desenvolvimento de soluções de software para atender às
-                    demandas específicas do mercado de ESG. Implementação de
-                    funcionalidades avançadas para visualização de dados
-                    relacionados a questões ambientais, sociais e de governança.
+                   Desenvolvo soluções ESG com foco em Front-End (HTML, CSS, JS, React, TS).  
+Fui pioneira na adoção de microfrontends na Ambipar ESG e atuo como comissária de squad, contribuindo para o alinhamento estratégico e a performance do time.  
+Tenho experiência no desenvolvimento de soluções de software para atender demandas específicas do mercado de ESG, implementando funcionalidades avançadas para visualização de dados relacionados a questões ambientais, sociais e de governança.
+
                   </div>
                   {/* Icons */}
                   {/* <div className="flex gap-3 justify-center">

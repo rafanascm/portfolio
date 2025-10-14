@@ -7,7 +7,7 @@ import "../sass/page.scss"
 
 const Homepage = () => {
   const [text] = useTypewriter({
-    words: ['Desenvolvedora Front End', 'Freelancer', 'UX/UI'],
+    words: ['Desenvolvedora Front End', 'Professora', 'UX/UI'],
     loop: true, 
   });
 
